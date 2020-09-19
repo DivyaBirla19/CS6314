@@ -1,0 +1,56 @@
+
+.container{
+  width:500px;
+  margin:100px auto;
+  box-shadow:0 0 3px;
+}
+
+
+h3{
+  background-color: #00a9fb;
+  margin: 0;
+  padding: 20px 20px;
+  color: white;
+}
+input{
+  height: 50px;
+  width:493px;
+  background-color: #F2F2F2;
+}
+/*
+When user focuses on the textbox, it will change the border color of the textbox and when user presses the enter key, it will add the item to the list.*/
+
+input:focus{
+  outline-color: black;
+}
+#add-btn{
+  float :right;
+  color: white;
+}
+ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+li{
+  height: 60px;
+  padding: 10px 10px 10px 10px;
+  background: #F2F2F2;
+  text-align: right;
+}
+li:nth-child(odd) {
+  padding: 0.5rem;
+  background: white;
+}
+.delete-btn{
+  float: left;
+  padding:10px 10px 10px 10px;
+  background-color: #f44336;
+  color: white;
+}
+
+.completed{
+  color: grey;
+  text-decoration: line-through;
+
+}

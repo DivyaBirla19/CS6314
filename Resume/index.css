@@ -1,0 +1,108 @@
+/*--------------------------Header and Navabar-------------------------- */
+
+h3,h5{
+  color: #333A56;
+  text-align: center;
+}
+.navbar-custom{
+  background-color:#333A56;
+}
+
+.custom-toggler.navbar-toggler {
+  border-color: rgb(232,232,232);
+}
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(232,232,232, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+.navbar-fnt{
+  color:#E8E8E8;
+}
+/*--------------------------Left panel Section-------------------------- */
+.web-links a{
+  color:#52658F;
+}
+
+/*--------------------------Middle panel Project Section-------------------------- */
+h6{
+  color: #333A56;
+  text-align:left;
+}
+.timeline{
+  color: #333A56;
+  text-align:left;
+}
+.background-custom{
+  background-color: #F7F5E6;
+}
+.background-white{
+  background-color: #FFFFFF;
+}
+.sub-headings{
+  text-decoration: underline;
+  color: #52658F;
+}
+/*--------------------------Middle panel About Section-------------------------- */
+.about-me{
+  float:left;
+}
+
+.profile-pic{
+  float: left;
+  width:120px;
+  height: 150px;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 5px;
+  border-radius: 50%;
+  border: 1px solid ;
+  padding: 1px;
+}
+
+.experience{
+  float:left;
+}
+
+.no-bullets{
+
+  list-style-type: none;
+}
+.background-contact{
+  background-color:#52658F;
+  color: white;
+}
+.background-contact a{
+  color: white;
+}
+.background-contact h3{
+  color: white;
+}
+
+/*--------------------------Right panel Ads Section-------------------------- */
+.skills{
+  color: #52658F;
+}
+.icon{
+    color: #333A56;
+}
+.achievement{
+color: #52658F;
+width: auto;
+height: auto;
+background-color: white;
+padding: 0.5em;
+margin-left:auto;
+margin-right: auto;
+margin-bottom: 2px;
+}
+
+
+
+/*--------------------------Footer Section-------------------------- */
+.footer-copyright{
+  text-align: center;
+  color: white;
+  background-color: #333A56;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
