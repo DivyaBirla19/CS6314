@@ -20,7 +20,7 @@ For each query to the database the attributes- baby name, popularity ranking, ge
 6.Google Maps API:
 This practice work focuses on javascript geocoding for marking pharmacies on google maps for entered address.
 
-7.Project
+7.Project:
 The project is a MERN stack web application and is named Suraksha Care .It provides an all-inclusive web portal, powered by a strong user- interface that helps to find the healthcare and wellness doctor of your choice. It provides service for searching and booking appointments with ER doctors or physicians.Its other finctionalities include:
   a)User sign-up
   b)User login
@@ -30,3 +30,13 @@ The project is a MERN stack web application and is named Suraksha Care .It provi
   f)Purchase History
   g)Admin functionalities - Add, Update, Delete , List all services
   h)Chatbot service.
+  
+ 8.Photo Gallery:
+ This assignment focus on building a photo gallery using jQuery for travel photo sharing site.
+ 
+ 9.Google Maps parks API:
+ This assignment displays information from a MySQL database on a Google Map using the Maps JavaScript API.It lists parks and campgrounds.  
+ 
+ 10.Baby Names Assignment :
+ This assignment focuses on displaying the baby names and their popularity rankings for a given year and gender using AJAX technology, PHP and MySQL.
+ 
