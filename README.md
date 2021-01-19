@@ -11,3 +11,12 @@ This assignments focuses on hosting a Resume webpage online on UTD server that f
 
 4.ToDo List
 This practice work focuses on using jQuery, CSS and HTML to create a ToDo List dynamic web application. It follows guidelines and design contraints specified by the professor.
+
+5.Top 5 Baby Names:
+This practice work focuses on using PHP and MySQL to select form from form elements and create a table based on the query formed by the form element selections.
+For each query to the database the attributes- baby name, popularity ranking, gender and the year are matched and displayed in a tabular format. Order the names based on year, gender and ranking, respectively.
+
+
+6.Google Maps API:
+This practice worl focuses on javascrip geocoding for marking pharmacies on google maps for entered address.
+
