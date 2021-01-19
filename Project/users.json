@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "5fcbd3660255ea4fc443362d"
+  },
+  "name": "Divya Birla",
+  "email": "divyabirla@gmail.com",
+  "password": "$2a$08$s55I7BkQ7edSs/alSL0Rj.5kgHmQvYSwUtX8uqhcLnE6dUNlycesS",
+  "history": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcbd5097811f0508482d4e3"
+  },
+  "name": "Aasia Afreen",
+  "email": "aasia@gmail.com",
+  "password": "$2a$08$4bxcomVTKgj2Ddn0NDLGMehM.eSscHiDLHp7rGza.BEzak.MVRi7K",
+  "history": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcbf8de3ce8785642f34a55"
+  },
+  "name": "Mujtaba Arfat",
+  "email": "arfath1997@gmail.com",
+  "password": "$2a$08$w4Wenefd1mp.cmleF4maUOg7qhgZfEx/laTnF/BUJy4Os02Nsg0qe",
+  "history": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcbf9943ce8785642f34a56"
+  },
+  "name": "Afreen",
+  "email": "afreen@gmail.com",
+  "password": "$2a$08$dOSJgea8llLl0Rvm8eOi7e0c07OahEW4JNShJ0gGud7RQtiERijwu",
+  "history": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcd6aa8fd82ac1976788cf1"
+  },
+  "name": "Lydia",
+  "email": "Lydia@gmail.com",
+  "password": "$2a$08$YghSvo674ow5/2XyRtsz5uBN/JOLw0vjJN4Ym4bwKZZE984.OuWZy",
+  "history": [],
+  "__v": 0
+}]

@@ -1,0 +1,65 @@
+.jumbotron{
+    margin:0px 0px;
+    height:30vh;
+    
+
+}
+.login-container{
+    height:100%;
+}
+
+.jumbo-row{
+  
+    height:100%;
+   
+    letter-spacing: 1px;
+    text-align: center;
+}
+.login-signup-container { 
+  
+    height:100%;
+}
+.login-signup-row{
+   
+    height:100%;
+}
+.LoginSignUp{
+    margin:70px 0px;
+
+ 
+}
+.login-row{
+
+    height:80%;
+    align-items: center;
+    padding:10px 0px;
+
+}
+.signup-row{
+
+    height:70%;
+    align-items: center;
+    padding:10px 0px;
+
+}
+.email-row{
+
+   
+    margin:0px auto;
+    padding:10px 0px;
+}
+
+
+
+.login-sign-up-card{
+    width:60%;
+    margin:0px auto;
+    height:100%;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+}

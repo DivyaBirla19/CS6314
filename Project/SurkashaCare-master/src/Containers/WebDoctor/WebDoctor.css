@@ -1,0 +1,197 @@
+.container-jumbo{
+
+    height:100%;
+}
+.cardbox{
+    overflow:auto;
+    padding:30px 10px;
+    
+}
+
+.jumbotron{
+    margin:0px 0px;
+    height:40vh;
+    
+
+}
+.jumbo-row{
+  
+    height:100%;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.WebDoctor{
+  
+    height:60vh;
+    margin:70px 0px;
+}
+.web-doctor{
+    
+   
+    height:100%;
+    box-shadow: 0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+.textWidth{
+    width:100%;
+    border-radius: 50px 50px;
+    padding-left:25px;
+    padding-top:10px;
+}
+.buttonWidth{
+    width:100%;
+    height:100%;
+    border-radius: 50px 50px;
+}
+
+.reply-box{
+    
+  
+    display:inline-block;
+    clear: both;
+    padding: 20px;
+    border-radius: 30px;
+    margin-bottom: 2px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 600;
+
+}
+.pushButton{
+    font-weight: 700;
+    font-size: 25px;
+}
+@media screen and (min-width: 375px) {
+    .cardbox{
+       
+        height:270px;
+       
+    }
+ }
+ @media screen and (min-width: 414px) {
+    .cardbox{
+       
+        height:350px;
+    }
+ }
+
+
+
+@media screen and (min-width: 800px) {
+    .cardbox{
+      
+        height:600px;
+    }
+
+ }
+
+@media screen and (min-width: 1280px) {
+    .cardbox{
+      
+        height:350px;
+    }
+ }  
+ @media screen and (min-width: 1400px) {
+    .cardbox{
+       
+        height:450px;
+    }
+    .textBox{
+        padding:25px 0px;
+        height:100px;
+    }
+ }  
+
+/* .window{
+    height:100%;
+    background-color: aliceblue;
+}
+.ChatBox{
+    margin:70px 0px;
+    height:80vh;
+  
+}
+.chatbot-box{
+    padding:2px 2px;
+    margin: 0px 0px;
+    width:100%;
+    height:100%;
+    box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+}
+.text-box-holder{
+    background-color: aliceblue;
+    margin:20px 0px;
+    border:0.0009em solid grey;
+    padding:5px 6px;
+    box-shadow:0 8px 6px -6px black; 
+
+   
+   
+}
+.button-go{
+    width:70px;
+    height:70px;
+    border-radius: 50px 50px;
+}
+
+@media screen and (min-width: 1200px) {
+    .window{
+        height:700px;
+      
+    }
+ }      
+ 
+ @media screen and (max-width: 800px) {
+    .window{
+        height:350px;
+        
+    }
+ }
+ 
+     @media screen and (max-width: 600px) {
+        .window{
+            height:350px;
+          
+        }
+ }
+ @media screen and (min-width: 412px) {
+     textarea{
+        width:100%;
+     }
+    .window{
+        height:420px;
+        border:1px solid gray;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    
+    .container-box{
+        border:1px solid black;
+        
+    }
+    .window{
+        height:750px;
+        width:inherit;
+       
+    }
+  }
+  @media screen and (min-width: 1600px) {
+    .container {
+      width: 1570px;
+    }
+  }
+  @media screen and (min-width: 1900px) {
+    .container {
+      width: 1870px;
+    }
+  } */

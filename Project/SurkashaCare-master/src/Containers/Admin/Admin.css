@@ -1,0 +1,11 @@
+.admin-cards{
+
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+.row-form{
+    width:100%;
+    display:flex;
+    flex-direction: row;
+}

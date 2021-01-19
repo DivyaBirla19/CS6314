@@ -1,0 +1,21 @@
+.Box{
+
+    margin:0px 0px;
+    height:35vh;
+    background-color: white;
+    font-family: 'Fjalla One', sans-serif;
+}
+.container-box{
+  
+    height:100%;
+}
+
+.row-header{
+
+    text-align: center;
+    letter-spacing:1px;
+    height:100%;
+    
+    
+}
+

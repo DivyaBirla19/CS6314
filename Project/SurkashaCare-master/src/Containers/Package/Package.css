@@ -1,0 +1,22 @@
+.pill{
+  
+    padding:15px 15px;
+    border-radius: 50px;
+    z-index: 40;
+    font-weight: 600;
+    font-size: large;
+}
+.row-pill{
+   
+   
+    z-index: 15;
+    
+}
+.package-box{
+    width:100vw;
+  
+    position: absolute;
+    margin-bottom: 10px;
+    
+    z-index: 10;
+}

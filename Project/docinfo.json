@@ -1,0 +1,254 @@
+[{
+  "_id": {
+    "$oid": "5fcad1f203f155b9c36d8eea"
+  },
+  "docName": "Dr. Mikhail Varshavski",
+  "qualification": "MBBS, MD, FRCS in Gynaecology",
+  "availability": "Mon  Wed Thur Sat",
+  "timing": "10:00 am to 5:00 pm",
+  "fee": 500,
+  "docImg": "https://img.mensxp.com/media/content/2020/Mar/YouTube-Famous-Doctor-Mikhail-Varshavski-Is-Now-Going-Viral-For-His-Content-On-Coronavirus-1200x900_5e7ca6e631e4e_1200x900.jpeg",
+  "experience": 5
+},{
+  "_id": {
+    "$oid": "5fcad6fb03f155b9c36d8eec"
+  },
+  "docName": "Dr. Rachel Green",
+  "qualification": "MBBS, MD in Pulmonology",
+  "availability": "Wed Thu Fri",
+  "timing": "11:00 am to 4:00 pm",
+  "fee": 350,
+  "docImg": "https://intermountainhealthcare.org/-/media/images/global/1-1/female-physician-headshot.jpg?mw=1600",
+  "experience": 4
+},{
+  "_id": {
+    "$oid": "5fcad86e03f155b9c36d8eed"
+  },
+  "docName": "Dr. Ross Geller",
+  "qualification": "MBBS, MD, FRCS in Internal Medicine",
+  "availability": "Mon Wed Thu Fri",
+  "timing": "10:00 am to 5:00 pm",
+  "fee": 500,
+  "docImg": "https://www.mountsinai.org/files/MSHealth/Assets/HS/Care/Endocrinology/Images/Endocrine-male-hormone.jpg",
+  "experience": 5
+},{
+  "_id": {
+    "$oid": "5fcadaa403f155b9c36d8eee"
+  },
+  "docName": "Dr. Selena Williams",
+  "qualification": "MBB, MD in Gastreoentology",
+  "availability": "Tue Wed Thu",
+  "timing": "10:00 am to 3:00 pm",
+  "fee": 400,
+  "docImg": "https://www.stayathomemum.com.au/wp-content/uploads/2015/09/doc.jpg",
+  "experience": 4
+},{
+  "_id": {
+    "$oid": "5fcadc1903f155b9c36d8eef"
+  },
+  "docName": "Dr. Reshma Sadaf",
+  "qualification": "MBBS, MD in Internal Medicine",
+  "availability": "Thu Fri Sat Sun",
+  "timing": "11:00 am to 3:00 pm",
+  "fee": 450,
+  "docImg": "https://www.essence.com/wp-content/uploads/2016/10/1476555837/whatadoctorlookslike-hashtag-tamika-cross-delta.jpg",
+  "experience": 5
+},{
+  "_id": {
+    "$oid": "5fcadd5d03f155b9c36d8ef0"
+  },
+  "docName": "Dr. Michael Struzzo",
+  "qualification": "MBBS, MD in Infectious Disease & Pulmonology",
+  "availability": "Mon Tue Wed Thu Fri",
+  "timing": "3:00 pm to 5:00 pm",
+  "fee": 550,
+  "docImg": "https://homewoodfamilyaz.org/wp-content/uploads/2015/07/male-doctor-3.png",
+  "experience": 7
+},{
+  "_id": {
+    "$oid": "5fcade7a03f155b9c36d8ef1"
+  },
+  "docName": "Dr. Ferek Shepherd",
+  "qualification": "MBBS, MD, MRCS in Neurology",
+  "availability": "Mon Thu Sat",
+  "timing": "11:00 am to 3:00 pm",
+  "fee": 600,
+  "docImg": "https://static.onecms.io/wp-content/uploads/sites/20/2015/04/patrick-dempsey-04-1024-1.jpg",
+  "experience": 8
+},{
+  "_id": {
+    "$oid": "5fcae0ec03f155b9c36d8ef2"
+  },
+  "docName": "Dr. Jesse Williams",
+  "qualification": "MBBS, MD in Cardiology",
+  "availability": "Wed Thu Fri Sat",
+  "timing": "4:00 pm to 6:00 pm",
+  "fee": 650,
+  "docImg": "https://s2.r29static.com/bin/entry/2cc/x,80/2040491/image.jpg",
+  "experience": 9
+},{
+  "_id": {
+    "$oid": "5fcae1a303f155b9c36d8ef3"
+  },
+  "docName": "Dr. Helen Keller",
+  "qualification": "MBBS, MD in Genetic Pathology",
+  "availability": "Mon Tue Wed Thu Fri",
+  "timing": "10:00 am to 12:00 pm",
+  "fee": 400,
+  "docImg": "https://i.pinimg.com/originals/96/7f/2c/967f2c118013d1002a8b672b112eab81.jpg",
+  "experience": 3
+},{
+  "_id": {
+    "$oid": "5fcae28803f155b9c36d8ef4"
+  },
+  "docName": "Dr. Meredith Grey",
+  "qualification": "MBBS, MD in Preventive Medicine",
+  "availability": "Mon Tue Wed Thu Fri",
+  "timing": "1:00 pm to 4:00 pm",
+  "fee": 400,
+  "docImg": "https://www.usmagazine.com/wp-content/uploads/2019/11/Ellen-Pompeo-Best-Moments-as-Meredith-Grey-on-Greys-Anatomy.jpg?w=700&quality=86&strip=all",
+  "experience": 2
+},{
+  "_id": {
+    "$oid": "5fcae46703f155b9c36d8ef5"
+  },
+  "docName": "Dr. Christina Yang",
+  "qualification": "MBBS, MD in Cardiology",
+  "availability": "Mon Tue Thu Fri Sat",
+  "timing": "10:00 am to 4:00 pm",
+  "fee": 500,
+  "docImg": "https://www.mansworldindia.com/wp-content/uploads/2020/10/greys-anatomy-christina-yang.png",
+  "experience": 7
+},{
+  "_id": {
+    "$oid": "5fcae50703f155b9c36d8ef6"
+  },
+  "docName": "Dr. Mark Sloan",
+  "qualification": "MBBS, MD in Pediatrics",
+  "availability": "Mon Tue Wed Thu Sun",
+  "timing": "4:00 pm to 7:00 pm",
+  "fee": 600,
+  "docImg": "https://i.pinimg.com/originals/64/2a/c6/642ac686e2739a69b61e625011b42782.jpg",
+  "experience": 8
+},{
+  "_id": {
+    "$oid": "5fcae5a703f155b9c36d8ef7"
+  },
+  "docName": "Dr. Alex Karev",
+  "qualification": "MBBS, MD in Internal Medicine",
+  "availability": "Mon Thu Fri",
+  "timing": "10:00 am to 4:00 pm",
+  "fee": 700,
+  "docImg": "https://www.refinery29.com/images/9489883.jpg",
+  "experience": 9
+},{
+  "_id": {
+    "$oid": "5fcae64303f155b9c36d8ef8"
+  },
+  "docName": "Dr. Izzie Stevens",
+  "qualification": "MBBS, MD in Gynaecology",
+  "availability": "Mon Thu Fri Sun",
+  "timing": "3:00 pm to 6:00 pm",
+  "fee": 450,
+  "docImg": "https://openpsychometrics.org/tests/characters/test-resources/pics/GA/3.jpg",
+  "experience": 7
+},{
+  "_id": {
+    "$oid": "5fcae6fc03f155b9c36d8ef9"
+  },
+  "docName": "Dr. Callie Torres",
+  "qualification": "MBBS, MD in Pulmonology & Infectious Disease",
+  "availability": "Mon Tue Wed Thu Fri",
+  "timing": "11:00 am to 7:00 pm",
+  "fee": "750",
+  "docImg": "https://vader.news/__export/1597972095323/sites/gadgets/img/2020/08/20/callie-torres-interpretee-sara-ramrez-serie-grey-anatomy.jpg_1834792636.jpg",
+  "experience": 10
+},{
+  "_id": {
+    "$oid": "5fcae7a203f155b9c36d8efa"
+  },
+  "docName": "Dr. Richard Webber",
+  "qualification": "MBBS, MD, FRCS, MRCS in Internal Medicine",
+  "availability": "Sat Sun",
+  "timing": "12:00 pm to 4:00 pm",
+  "fee": 800,
+  "docImg": "https://m.media-amazon.com/images/M/MV5BMjA4NDAyNjkwOF5BMl5BanBnXkFtZTcwODg4Mzk5MQ@@._V1_UY1200_CR165,0,630,1200_AL_.jpg",
+  "experience": 10
+},{
+  "_id": {
+    "$oid": "5fcae84703f155b9c36d8efb"
+  },
+  "docName": "Dr. Reed Adamson",
+  "qualification": "MBBS, MD in Opthalmology",
+  "availability": "10:00 am to 4:00 pm",
+  "timing": "12:00 pm to 4:00 pm",
+  "fee": 600,
+  "docImg": "https://assets.rbl.ms/10774124/origin.jpg",
+  "experience": 4
+},{
+  "_id": {
+    "$oid": "5fcae8f003f155b9c36d8efc"
+  },
+  "docName": "Dr. Eliza Minnick",
+  "qualification": "MBBS, MD in Geriatric Medicine",
+  "availability": "Mon Thu Sat Sun",
+  "timing": "4:00 pm to 8:00 pm",
+  "fee": 500,
+  "docImg": "https://i.redd.it/fs52lmqrhv851.jpg",
+  "experience": 5
+},{
+  "_id": {
+    "$oid": "5fcae9ad03f155b9c36d8efd"
+  },
+  "docName": "Dr. Intern Pierce",
+  "qualification": "MBBS, MD in Critical Care Medicine",
+  "availability": "Mon Thu Sun",
+  "timing": "11:00 am to 3:00 pm",
+  "fee": 550,
+  "docImg": "https://tvguide1.cbsistatic.com/i/r/2020/05/22/a0ba720a-7e7c-4a76-adcd-2cf070c5f85e/resize/970x653/2cf95435c9ec502bb36c477096d15969/200521-intern-pierce-gallery.jpg",
+  "experience": 6
+},{
+  "_id": {
+    "$oid": "5fcaea4e03f155b9c36d8efe"
+  },
+  "docName": "Dr. Penny Blake",
+  "qualification": "MBBS, MD in Hematology",
+  "availability": "Mon Wed Sat Sun",
+  "timing": "12:00 pm to 6:00 pm",
+  "fee": 450,
+  "docImg": "https://pbs.twimg.com/profile_images/831168885810401280/rLytZ9Uw_400x400.jpg",
+  "experience": 2
+},{
+  "_id": {
+    "$oid": "5fcd250b379a7cbfd49a7bb8"
+  },
+  "docName": "Dr. Venkateshwara",
+  "qualification": "MBB, MD in Orthopadic",
+  "availability": "Tue Wed Thu",
+  "timing": "10:00 am to 2:00 pm",
+  "fee": 400,
+  "experience": 4,
+  "docImg": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+},{
+  "_id": {
+    "$oid": "5fcd25e265d07fc0555116e8"
+  },
+  "docName": "Dr. Abdul Bari",
+  "qualification": "MD in Data Structures and Algorithm",
+  "availability": "Mon to Sun",
+  "timing": "12:00am and 10am",
+  "fee": 450,
+  "experience": 8,
+  "docImg": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+},{
+  "_id": {
+    "$oid": "5fcd7553fd82ac1976788cf5"
+  },
+  "docName": "Dr Annie Miller",
+  "qualification": "MBBS, MD, FRCS in Gynaecology",
+  "availability": "Wed Fri",
+  "timing": "11:00 am to 4:00 pm",
+  "fee": 950,
+  "experience": 4,
+  "docImg": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+}]
