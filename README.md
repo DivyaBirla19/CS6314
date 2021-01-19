@@ -18,5 +18,15 @@ For each query to the database the attributes- baby name, popularity ranking, ge
 
 
 6.Google Maps API:
-This practice worl focuses on javascrip geocoding for marking pharmacies on google maps for entered address.
+This practice work focuses on javascript geocoding for marking pharmacies on google maps for entered address.
 
+7.Project
+The project is a MERN stack web application and is named Suraksha Care .It provides an all-inclusive web portal, powered by a strong user- interface that helps to find the healthcare and wellness doctor of your choice. It provides service for searching and booking appointments with ER doctors or physicians.Its other finctionalities include:
+  a)User sign-up
+  b)User login
+  c)Service pricing page
+  d)Filtering and searching 
+  e)Checkout cart
+  f)Purchase History
+  g)Admin functionalities - Add, Update, Delete , List all services
+  h)Chatbot service.
